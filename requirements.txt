@@ -1,0 +1,4 @@
+# Core portal: Python 3.9+ standard library only.
+# Optional: required only for Apple OAuth client-secret generation.
+PyJWT>=2.8,<3
+cryptography>=42,<48
